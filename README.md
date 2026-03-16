@@ -1,4 +1,4 @@
-# File-Encrypter
+lkmkmk# File-Encrypter
 I have a UI vgjyvhfvhftbcdthat could be 10x better hahaha
 GUI program for Encrypting/Decrypting files using AES 256 bit 
 
